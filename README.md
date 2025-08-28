@@ -2,7 +2,7 @@
 
 > [!WARNING]
 > This is my fork of the caelestia project, a dotfile desktop with some magic things, but with my configs/dotfiles/wallpapers for now.  
-> You can download from here, but i'll recommend you the main repo: https://github.com/caelestia-dots/caelestia
+> `You can download from here, but i'll recommend you the main repo: ` https://github.com/caelestia-dots/caelestia
 
 ## Installation
 
